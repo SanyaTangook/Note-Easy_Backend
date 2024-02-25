@@ -6,4 +6,3 @@ Steps to run this project:
 2. Setup database settings inside `data-source.ts` file
 3. Run `npm start` command
 # Note-Easy_Backend
-# Note-Easy_Backend
